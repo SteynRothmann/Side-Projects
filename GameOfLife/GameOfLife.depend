@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1728043697 source:c:\users\steyn\onedrive\documents\nwu\2nd semester\cmpg 121\fun stuff\gameoflife\gameoflife\main.cpp
+	<iostream>
+	<ctime>
+	<chrono>
+	<windows.h>
+
