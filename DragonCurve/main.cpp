@@ -33,7 +33,7 @@ void drawCurve(const std::vector<Point>& curve) {
                 }
             }
             if (isLine) std::cout << "#";  // Print line segment
-            else std::cout << " ";        // Print empty space
+            else std::cout << " ";        // Print empty space LOLOLOLOLOL
         }
         std::cout << std::endl;
     }
